@@ -2,6 +2,6 @@
 
   echo "This is a completely random PHP file";
   
-  omg.
+  echo "omg.";
   
 ?>
